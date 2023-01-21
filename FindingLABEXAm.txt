@@ -1,0 +1,9 @@
+
+#53929 (Faisal kakar)
+The problem was about classification we have different algorithm for 
+classification problem but I use decision tree, and also for binary 
+classification logistic is the best choice:
+•	Because decision tree can handle both categorical and numerical data.
+•	It is used for both classification and regression problem.
+•	And I kept the max depth=5.
+•	decision tree also does not take much time as compare to randomForest,xgboost.
